@@ -1,5 +1,5 @@
 # ATSAMD21-BOARD  designed Within Kicad 6
-
+The aim of this project is to design a simple development board for ARM Based MCU line of Microchip for quick use and experientation of the MCU interfaces.
 ## Used main components in the design 
 + Microchip MCU  ATSAMD21G17D-A
 + UART/USB Transceiver for debugging
